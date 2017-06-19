@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="populateBtn">Get Users</string>
+
+    <string name="user_name_label">Name:</string>
+
+    <string name="user_address_label">Address:</string>
+
+    <string name="user_email_label">Email:</string>
+</resources>
